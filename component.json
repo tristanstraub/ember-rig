@@ -1,0 +1,10 @@
+{
+  "author": "Tristan Straub",
+  "name": "ember-rig",
+  "version": "0.0.1",
+  "main": ["./src/*.js"],
+  "dependencies": {
+      "ember":"*"
+  },
+  "devDependencies": {}
+}
